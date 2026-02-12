@@ -20,3 +20,6 @@ print('The Result is', result)
 
 result= multiplication_or_addition(40,50)
 print('The result is', result)
+
+result  = multiplication_or_addition(10,30)
+print('The Result is', result)
